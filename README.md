@@ -44,7 +44,7 @@ Analyses performed on the cleaned dataset:
 - **Company-year rankings** – top 5 companies per year by layoffs.  
 
 
-## 🚀 How to Run
+## How to Run
 
 1. **Load the dataset**
    ```sql
